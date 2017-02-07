@@ -1,5 +1,6 @@
-<title><b>Jump up</b></title>
-
+<b>
+<title>Jump up</title>
+</b>
 <br/>
 <h2>BE small</h2>
 <br/>
