@@ -2,7 +2,8 @@
 <title>Jump up</title>
 </b>
 <br/>
-<h2>BE small</h2>
+
+<h6>BE small</h6>
 <br/>
 A sample page off the main index is <a href="/wassup.html">Boi</a>
 <br/>
