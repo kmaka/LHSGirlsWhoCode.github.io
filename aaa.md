@@ -1,4 +1,4 @@
-<title>Jump up</title>
+<title><b>Jump up</b></title>
 
 <br/>
 <h2>BE small</h2>
