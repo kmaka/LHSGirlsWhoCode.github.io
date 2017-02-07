@@ -2,7 +2,7 @@
 <title>Jump up</title>
 </b>
 <br/>
-<body style="background color=blue;">
+<body style="background color=ff0000;">
 <h6>BE small</h6>
 <br/>
 A sample page off the main index is <a href="/wassup.html">Boi</a>
