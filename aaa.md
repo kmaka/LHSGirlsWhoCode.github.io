@@ -6,7 +6,7 @@
 <h6>BE small</h6>
 <br/>
 
-A sample page off the main index is <a href="/wassup.html">Boi</a>
+<i>A sample page off the main index is <a href="/wassup.html">Boi</a></i>
 <br/>
 
 And the project <a href="/wassup.html">WASSUP</a>.
